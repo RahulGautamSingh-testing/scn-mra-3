@@ -4,7 +4,7 @@
       "matchDatasources": [
         "npm"
       ],
-      "minimumReleaseAge": "3 days"
+      "minimumReleaseAge": "4 days"
     }
   ],
    "statusCheckNames": {
