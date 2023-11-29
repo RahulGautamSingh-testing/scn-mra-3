@@ -6,5 +6,8 @@
       ],
       "minimumReleaseAge": "3 days"
     }
-  ]
+  ],
+   "statusCheckNames": {
+    "minimumReleaseAge": null
+  }
 }
