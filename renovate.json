@@ -9,5 +9,6 @@
   ],
    "statusCheckNames": {
     "minimumReleaseAge": ""
-  }
+  },
+  "printConfig": true
 }
